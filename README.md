@@ -9,6 +9,9 @@ An opinionated cookbook that provides systems monitoring through [collectd][] an
 
 ## Attributes
 
+* `monitoring['librato']['email']`: the email address associated with the Librato account.
+* `monitoring['librato']['api_key']`: the API key to use.
+
 ## Recipes
 
 ## Author
